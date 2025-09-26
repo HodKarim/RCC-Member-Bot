@@ -57,6 +57,6 @@ Add command (!update_roles) to refresh roles without restarting the bot.
 
 Add real-time updates via Google Apps Script webhooks.
 
-## License  ݁₊ ⊹ . ݁˖ . ݁·ꕤ
+## ꕤ License  ݁₊ ⊹ . ݁˖ . ݁·
 
 MIT License
