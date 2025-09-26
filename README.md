@@ -1,8 +1,8 @@
-RCC Membership Bot
+# RCC Membership Bot
 
 A Discord bot for the Responsible Computing Club that automates Active Member role assignments based on event attendance.
 
-Features  ݁₊ ⊹ . ݁˖ . ݁·ꕤ
+## Features  ݁₊ ⊹ . ݁˖ . ݁·ꕤ
 
 Connects to Google Sheets attendance data (from Google Form responses).
 
@@ -12,7 +12,7 @@ Automatically assigns or removes the “Active Member” role in Discord.
 
 Reduces manual work for the Secretary and ensures accurate membership tracking.
 
-Tech Stack  ݁₊ ⊹ . ݁˖ . ݁·ꕤ
+## Tech Stack  ݁₊ ⊹ . ݁˖ . ݁·ꕤ
 
 Python 3.11+
 
@@ -24,7 +24,7 @@ gspread
 
 Google Cloud Service Account for secure authentication
 
-Setup  ݁₊ ⊹ . ݁˖ . ݁·ꕤ
+## Setup  ݁₊ ⊹ . ݁˖ . ݁·ꕤ
 
 Clone the repository:
 
@@ -47,7 +47,7 @@ Run the bot:
 
 python main.py
 
-Future Improvements  ݁₊ ⊹ . ݁˖ . ݁·ꕤ
+## Future Improvements  ݁₊ ⊹ . ݁˖ . ݁·ꕤ
 
 Match members by Student ID instead of nickname for reliability.
 
@@ -57,6 +57,6 @@ Add command (!update_roles) to refresh roles without restarting the bot.
 
 Add real-time updates via Google Apps Script webhooks.
 
-License  ݁₊ ⊹ . ݁˖ . ݁·ꕤ
+## License  ݁₊ ⊹ . ݁˖ . ݁·ꕤ
 
 MIT License
