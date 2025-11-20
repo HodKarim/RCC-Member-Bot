@@ -49,7 +49,7 @@ python main.py
 
 ## ꕤ Future Improvements  ݁₊ ⊹ . ݁˖ . ݁·
 
-Match members by Student ID instead of nickname for reliability.
+Match members by Student ID instead of email for reliability (or alternatively, be able to match by either students personal or SJSU email)
 
 Deploy to Google Cloud Run / AWS / Heroku for 24/7 hosting.
 
